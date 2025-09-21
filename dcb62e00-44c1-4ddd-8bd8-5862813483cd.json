@@ -1,0 +1,15 @@
+{
+  "certificate_id": "dcb62e00-44c1-4ddd-8bd8-5862813483cd",
+  "issued_at": "2025-09-21T17:38:38.187996+00:00",
+  "wiper_version": "mvp-windows-0.1",
+  "file_path": "C:\\Users\\raj\\secure-wipe-mvp - 1\\Test file PDF.pdf",
+  "file_size_bytes": 3489,
+  "method": "overwrite-zero-passes-1",
+  "result": "SUCCESS",
+  "extra_log": "starting wipe: C:/Users/raj/secure-wipe-mvp - 1/Test file PDF.pdf;before_sha256:75afccf9f3f8e1da80f8b390072c84e625cc577257e67b567360052042314154;after_sha256:a29f5f91ef4a396d34a86344fb82ddf813260019bf0ac8167233583c269aa1bb",
+  "operator": "raj",
+  "recipient": "ssds",
+  "location": "admin",
+  "signature": "MEYCIQCn4sCL4jlI00snXEtVrDLm24dgmW1yRkgTgmYNQQvDMQIhAPNaEA0lB3M5/QrN3MHu0kMqgeR6K2PG6rHwILTiqBc4",
+  "signature_algorithm": "ECDSA-P256-SHA256"
+}
