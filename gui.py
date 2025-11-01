@@ -16,16 +16,16 @@ root.geometry("640x520")
 
 # ------------------ Frames ------------------
 
-frm_inputs = ttk.LabelFrame(root, text="🗂️ File Selection", padding=10)
+frm_inputs = ttk.Labelframe(root, text="🗂️ File Selection", padding=10)
 frm_inputs.pack(padx=12, pady=10, fill="x")
 
-frm_meta = ttk.LabelFrame(root, text="📋 Chain of Custody", padding=10)
+frm_meta = ttk.Labelframe(root, text="📋 Chain of Custody", padding=10)
 frm_meta.pack(padx=12, pady=10, fill="x")
 
 frm_buttons = ttk.Frame(root)
 frm_buttons.pack(pady=(5, 5))
 
-frm_verify = ttk.LabelFrame(root, text="🔏 Verify Signature", padding=10)
+frm_verify = ttk.Labelframe(root, text="🔏 Verify Signature", padding=10)
 frm_verify.pack(padx=12, pady=10, fill="x")
 
 # ------------------ File Selection ------------------
